@@ -1,4 +1,2 @@
-•	Highly motivated and adaptable professional with a strong foundation in Full Stack Development, seeking to leverage transferable skills from NON-IT to thrive in the IT field. 
-•	Possesses a demonstrated ability to learn new concepts quickly and a passion for technology. Proven success in project handling, project management and problem solving. 
-•	Eager to contribute to a dynamic team and build a rewarding career in IT.
-•	Passionate and dedicated full stack developer with a strong foundation in web development. Skilled in front-end and back-end technologies, with a keen interest in creating user-friendly and innovative solutions. 
+•	Dedicated front-end developer with 2 years of experience in building responsive and user-friendly web applications. Proficient in HTML5, CSS3, JavaScript (ES6+), and modern front-end frameworks such as ReactJs. 
+•	Strong expertise in developing reusable components, optimizing performance, and ensuring cross-browser compatibility. Experienced in collaborating with cross-functional teams, adhering to web development best practices, and following agile methodologies. 
